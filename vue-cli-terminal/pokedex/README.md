@@ -1,4 +1,4 @@
-# vue-cli-ui
+# pokedex
 
 ## Project setup
 ```

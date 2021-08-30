@@ -1,0 +1,9 @@
+{
+	"include": ["./src/components/HelloWorld.vue", "./src/App.vue"],
+	"compilerOptions": {
+		"module": "es2015",
+		"moduleResolution": "node",
+		"target": "es5",
+		"sourceMap": true
+	}
+}

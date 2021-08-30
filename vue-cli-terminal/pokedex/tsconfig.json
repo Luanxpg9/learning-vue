@@ -1,9 +1,10 @@
 {
-	"include": ["./src/components/HelloWorld.vue", "./src/App.vue"],
+	"include": [".src/components/HelloWorld.vue", "./src/App.vue", "file.ts"],
 	"compilerOptions": {
 		"module": "es2015",
 		"moduleResolution": "node",
 		"target": "es5",
 		"sourceMap": true
-	}
+	},
+	"exclude": []
 }
